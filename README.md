@@ -1,2 +1,17 @@
-# cybersecurity-portfolio
-Hands-on cybersecurity labs and documentation.
+# السلام عليكم
+
+أنا نايف العنزي، طالب دبلوم أمن سيبراني.
+
+سويت هالملف عشان أوثق اللابات اللي أطبقها بنفسي، مع الخطوات والصور والنتائج، عشان يكون مرجع لي، ويعكس شغلي بشكل واضح.
+
+المحتوى بيشمل لابات في:
+
+- Wazuh
+- Active Directory
+- Windows Security
+- Sysmon
+- Threat Hunting
+- Incident Response
+- Networking
+
+كل لاب برفعه بيكون موثق بالصور، والخطوات، والنتائج اللي طلعت معي أثناء التطبيق.
