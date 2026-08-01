@@ -16,11 +16,13 @@
 
 ## النتيجة
 تمت إضافة المستخدم إلى المجموعة بنجاح، وتم تسجيل العملية في سجل الأمان.
-
 ## الصور
 
 ### عضوية المستخدم في المجموعة
 ![User Membership](Images/01-user-membership.png)
 
-### Event ID 4728
-![Event 4728](Images/02-event-4728.png)
+### إنشاء وربط Group Policy
+![GPO Created](Images/02-gpo-created.png)
+
+### نتيجة تطبيق السياسة
+![Control Panel Blocked](Images/03-control-panel-blocked.png)
