@@ -26,4 +26,10 @@
 ![Domain Authentication](Images/02-domain-authentication.png)
 
 ## النتيجة
-تم ربط جهاز Windows 10 بالدومين `naif.local` بنجاح، والتحقق من تسجيل الدخول باستخدام حساب دومين.
+تم ربط جهاز Windows 10 بالدومين `naif.local` بنجاح، والتحقق من تسجيل الدخول باستخدام حساب دومين
+
+### Event ID 4741
+
+A computer account was created successfully in Active Directory.
+
+![Event ID 4741](Images/03-event-4741.png)
