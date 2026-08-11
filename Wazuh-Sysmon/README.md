@@ -18,6 +18,5 @@ Wazuh | Sysmon | PowerShell
 
 ![Sysmon Event ID 1 - Process Creation](Images/Threat_Hunting_Sysmon_EventID_1_ProcessCreate.png)
 
-![Sysmon Event ID 11 - File Creation](Images/Threat_Hunting_Sysmon_EventID_11_FileCreate.png)
-
+![Sysmon Event ID 11 - File Creation](Images/Threat_Hunting_Sysmon_EID11_FileCreate.png)
 ![Wazuh Alert - Sysmon Event ID 11](Images/Wazuh_Alert_Sysmon_EventID_11_FileCreate.png)
