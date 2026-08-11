@@ -1,18 +1,23 @@
-Wireshark DNS Analysis Lab
-Analyzed normal and suspicious DNS traffic using Wireshark to understand query behavior, responses, and basic threat‑hunting indicators.
+# Wireshark DNS Analysis Lab
 
-DNS Results
-Interface: Wi‑Fi
+Performed DNS traffic analysis using Wireshark to identify normal and suspicious query behavior.
 
-Filter: dns
+### DNS Results
 
-Normal Traffic: googleapis, cloudflare, microsoft
+- Interface: Wi‑Fi
+- Filter: dns
+- Normal Traffic: googleapis, cloudflare, microsoft
+- Suspicious Traffic: unusual domains, repeated queries, NXDOMAIN
+- Goal: Differentiate legitimate DNS activity from abnormal patterns
 
-Suspicious Traffic: unusual domains, repeated queries, NXDOMAIN
+### Tools
 
-Goal: Identify abnormal DNS patterns and differentiate legitimate vs suspicious behavior
-
-Tools
 Wireshark
 
-Evidence
+### Evidence
+
+**Normal DNS Traffic**  
+![Normal DNS Traffic](Images/01-dns-normal.png)
+
+**Suspicious DNS Traffic**  
+![Suspicious DNS Traffic](Images/02-dns-suspicious.png)
