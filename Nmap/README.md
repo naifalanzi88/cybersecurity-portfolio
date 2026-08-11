@@ -14,3 +14,6 @@ Performed network reconnaissance and service enumeration using Nmap.
 ### Tools
 
 Nmap
+### Evidence
+
+![Nmap Scan](Images/Nmap_Intense_Scan_192.168.0.1.png)
