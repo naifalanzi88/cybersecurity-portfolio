@@ -1,17 +1,24 @@
-السلام عليكم، أنا نايف العنزي.
 
-طالب دبلوم أمن سيبراني، مهتم بمسار SOC Analyst وBlue Team، وأطوّر نفسي  باتجاه مجال الـ GRC في الحوكمة وإدارة المخاطر والامتثال.
+Hi, I'm Naif Alanzi.
 
-هذا المستودع يحتوي على لابات عملية في:
-- Active Directory
-- Windows Security
-- Sysmon
-- Wazuh
-- Threat Hunting
-- Incident Response
-- Networking
-- GRC
+Cybersecurity Diploma student focused on **SOC Analyst and Blue Team** skills, with a future focus on **GRC (Governance, Risk and Compliance)**.
 
-كل لاب موثق بالخطوات والنتائج اللي ظهرت معي أثناء التطبيق.
+This repository documents hands-on cybersecurity labs performed in a controlled lab environment.
 
-هدف المستودع هو توثيق شغلي العملي وبناء Portfolio يعكس مهاراتي في بيئة مختبرية، ويبين تطوري في المسار الأمني بشكل واضح.
+### Labs
+
+**Completed & Documented**
+
+* ✅ Active Directory
+* ✅ Nmap
+* ✅ Wireshark
+* ✅ Wazuh + Sysmon
+
+**Planned**
+
+* ⏳ Threat Hunting
+* ⏳ GRC Practical
+
+The completed labs include practical evidence and results from the lab environment, covering security monitoring, Windows event analysis, network analysis, and endpoint telemetry.
+
+The goal is to document my practical development and build a clear cybersecurity portfolio for a future career in **SOC / Blue Team**, followed by **GRC**.
