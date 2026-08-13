@@ -27,3 +27,8 @@ A PowerShell process spawned `cmd.exe` to execute `whoami` and redirect the outp
 
 ```text
 PowerShell → cmd.exe → whoami → File Output
+### Evidence — Process Creation (Event 4688)
+
+The event shows PowerShell spawning `cmd.exe` with a command that executes `whoami` and redirects the output to a temporary file.
+
+![Suspicious Process Chain](Images/threat-hunting-process-chain.png)
