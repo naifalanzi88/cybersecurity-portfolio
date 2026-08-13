@@ -31,4 +31,4 @@ PowerShell → cmd.exe → whoami → File Output
 
 The event shows PowerShell spawning `cmd.exe` with a command that executes `whoami` and redirects the output to a temporary file.
 
-![Suspicious Process Chain](Images/threat-hunting-process-chain.png)
+![Suspicious Process Chain](threat-hunting-process-chain.png)
