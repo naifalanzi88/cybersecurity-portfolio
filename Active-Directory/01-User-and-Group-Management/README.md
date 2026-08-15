@@ -20,5 +20,3 @@
 ## الصور
 ![User Membership](Images/01-user-membership.png)
 ![Event 4728](Images/02-event-4728.png)
-![Create GPO](Images/01-create-gpo.png)
-![Control Panel Disabled](Images/03-control-panel-disabled.png)
