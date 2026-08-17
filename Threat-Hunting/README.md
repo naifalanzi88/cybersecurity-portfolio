@@ -31,8 +31,8 @@ The event shows PowerShell spawning `cmd.exe` with a command that executes `whoa
 ![Suspicious Process Chain](Images/threat-hunting-process-chain.png)
 
 ### Analysis
-PowerShell spawned cmd.exe using a bypassed execution policy and executed `whoami` with output redirected to a temp file.  
-This behavior is commonly associated with reconnaissance or script‑based attacks, not normal administrative activity.
+PowerShell spawned `cmd.exe` using a bypassed execution policy and executed `whoami` with output redirected to a temporary file.
+This behavior was treated as suspicious in the lab because of the process chain and execution context and was investigated as potential reconnaissance behavior.
 
 ### Conclusion
-The hunt confirms abnormal PowerShell activity that should be investigated further.
+The activity was identified as potentially suspicious and would require further investigation in a real environment.
