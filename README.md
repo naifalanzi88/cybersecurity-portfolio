@@ -1,24 +1,30 @@
+# Cybersecurity Portfolio
 
-Hi, I'm Naif Alanzi.
+Hands-on cybersecurity labs and practical documentation focused on SOC and Blue Team fundamentals.
 
-Cybersecurity Diploma student focused on **SOC Analyst and Blue Team** skills, with a future focus on **GRC (Governance, Risk and Compliance)**.
+## Completed Labs
 
-This repository documents hands-on cybersecurity labs performed in a controlled lab environment.
+- **Threat Hunting** — Wazuh, Sysmon, Windows event analysis
+- **Wazuh & Sysmon Integration** — Endpoint monitoring and event collection
+- **Registry Persistence** — Registry Run Keys and Sysmon Event ID 13
+- **Wireshark DNS Analysis** — DNS traffic analysis and network investigation
+- **Nmap** — Network reconnaissance and service enumeration
+- **Active Directory User & Group Management** — User/group administration and Event ID 4728
 
-### Labs
+## Focus Areas
 
-**Completed & Documented**
+- SOC Monitoring
+- Threat Hunting
+- Windows Security
+- SIEM
+- Endpoint Monitoring
+- Network Analysis
+- Active Directory
 
-* ✅ Active Directory
-* ✅ Nmap
-* ✅ Wireshark
-* ✅ Wazuh + Sysmon
+## Tools
 
-**Planned**
+Wazuh | Sysmon | Wireshark | Nmap | PowerShell | Windows Server | Active Directory
 
-* ⏳ Threat Hunting
-* ⏳ GRC Practical
+---
 
-The completed labs include practical evidence and results from the lab environment, covering security monitoring, Windows event analysis, network analysis, and endpoint telemetry.
-
-The goal is to document my practical development and build a clear cybersecurity portfolio for a future career in **SOC / Blue Team**, followed by **GRC**.
+**Note:** These labs were built for hands-on learning and documented based on the results actually observed during testing.
