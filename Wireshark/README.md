@@ -7,7 +7,7 @@ Performed DNS traffic analysis using Wireshark to identify normal and suspicious
 - Interface: Wi‑Fi
 - Filter: dns
 - Normal Traffic: googleapis, cloudflare, microsoft
-- Suspicious Traffic: unusual domains, repeated queries, NXDOMAIN
+- Traffic Selected for Investigation: unusual domains, repeated queries, NXDOMAIN responses
 - Goal: Differentiate legitimate DNS activity from abnormal patterns
 
 ### Tools
@@ -19,5 +19,5 @@ Wireshark
 **Normal DNS Traffic**  
 ![Normal DNS Traffic](Images/01-dns-normal.png)
 
-**Suspicious DNS Traffic**  
-![Suspicious DNS Traffic](Images/02-dns-suspicious.png)
+**Traffic Selected for Investigation**  
+![Traffic Selected for Investigation](Images/02-dns-suspicious.png)
